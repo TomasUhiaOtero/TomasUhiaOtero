@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy **Tomás Uhía Otero**
 
-<!--
-**TomasUhiaOtero/TomasUhiaOtero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador full stack apasionado por la creación de experiencias digitales modernas, accesibles y visualmente atractivas.  
+Me encanta aprender nuevas tecnologías, trabajar en equipo y enfrentar desafíos que me permitan crecer profesionalmente.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+💡 Apasionado por el desarrollo frontend y la optimización de la experiencia de usuario.  
+⚙️ También disfruto del desarrollo backend y de diseñar bases de datos relacionales que garanticen rendimiento y escalabilidad.
+🚀 En constante aprendizaje y experimentación con nuevas herramientas y frameworks.  
+🎯 Enfocado en construir soluciones eficientes, escalables y con buen diseño.
+
+---
+
+## 🛠️ Tecnologías que utilizo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,javascript,python,php,api,sql,mysql,bootstrap,tailwind,androidstudio,visualstudio" />
+</p>
+
+---
+
+## 🎯 Goals
+
+- Mejorar mis habilidades en desarrollo **full-stack**.  
+- Contribuir en proyectos **open source** y en comunidades tecnológicas.  
+- Dominar frameworks modernos y patrones de arquitectura escalables.  
+- Crecer profesionalmente en un entorno colaborativo e innovador.
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-uh%C3%ADa-otero-b10748345/)  
+- 📧 uhiaoterotomas@gmail.com 
+---
+
+⭐ Si te interesa colaborar conmigo o revisar mis proyectos, ¡no dudes en contactarme!
