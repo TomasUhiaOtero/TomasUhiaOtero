@@ -17,7 +17,7 @@ Me encanta aprender nuevas tecnologías, trabajar en equipo y enfrentar desafío
 ## 🛠️ Tecnologías que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,javascript,python,php,api,sql,mysql,bootstrap,tailwind,androidstudio,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,astro,javascript,python,php,api,sql,mysql,java,eclipse,bootstrap,tailwind,androidstudio,visualstudio,vscode" />
 </p>
 
 ---
