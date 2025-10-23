@@ -34,7 +34,8 @@ Me encanta aprender nuevas tecnologías, trabajar en equipo y enfrentar desafío
 ## 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-uh%C3%ADa-otero-b10748345/)  
-- 📧 uhiaoterotomas@gmail.com 
+- 📧 uhiaoterotomas@gmail.com
+- 🔍 [Portfolio](https://portfoliotomass.netlify.app/)
 ---
 
 ⭐ Si te interesa colaborar conmigo o revisar mis proyectos, ¡no dudes en contactarme!
