@@ -38,4 +38,4 @@ Me encanta aprender nuevas tecnologías, trabajar en equipo y enfrentar desafío
 - 🔍 [Portfolio](https://portfoliotomass.netlify.app/)
 ---
 
-⭐ Si te interesa colaborar conmigo o revisar mis proyectos, ¡no dudes en contactarme!
+⭐ Si te interesa colaborar conmigo o revisar mis proyectos, no dudes en contactarme!
